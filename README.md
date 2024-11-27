@@ -33,8 +33,8 @@ This project is a **School Management API** built with **Node.js**, **Express.js
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/school-management-api.git
-   cd school-management-api
+   git clone https://github.com/yourusername/School-API.git
+   cd School-API
 
   2. Install dependencies:
      ```bash
